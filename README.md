@@ -13,7 +13,7 @@
   O projeto está disponível no site:
   https://playstation5controller.netlify.app/
   
-  ### Observação
+  ### Importante
 
  Este projeto é apenas um layout de uma página, não sendo possível comprar realmente um controle ou acessar um sistema de vendas. Por isso, os links da página estão inutilizáveis.
 
@@ -32,7 +32,6 @@
         </sub>
       </a>
     </td>
-    
   </tr>
 </table>
 
